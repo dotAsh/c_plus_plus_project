@@ -1,0 +1,11 @@
+add a2, a1, a0
+add a0, a1
+add a3 a0 a1 a2
+dummy a0, a1, a2
+#all instructions are valid in following
+add a0, x0, x1
+la a1, hello
+li a3,5
+addi a2, x0, 5
+subi a7,x0,64
+ecall 

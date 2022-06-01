@@ -1,0 +1,6 @@
+add 3
+la 2
+li 2
+addi 3
+subi 3
+ecall 0
